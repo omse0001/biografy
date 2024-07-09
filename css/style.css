@@ -1,0 +1,36 @@
+header {
+    text-align:center;
+}
+.photo{
+    width: 200px;
+}
+.main{
+    overflow: hidden;
+    text-align: center;
+}
+.imageJobs{ 
+    display: inline-block;
+    
+}
+.text{
+    display: inline-block;
+    width: 18%;     
+}
+.imageApple{
+    display:inline-block;
+}
+.imagePixar{
+    display:inline-block;
+}
+.Apple {
+    width:300px;
+    margin-right:100px;
+}
+.Pixar{
+    width:300px;
+    margin-left:100px;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
